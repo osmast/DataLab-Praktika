@@ -1,0 +1,51 @@
+---
+title: "Exposé LSDLPr25"
+subtitle: "Projektgruppe [Nummer/Name einfügen]"
+author: "[Gruppenmitglieder einfügen]"
+date: today
+format: pdf
+fontsize: 11pt
+geometry: "a4paper, margin=2.5cm"
+toc: false
+number-sections: false
+---
+
+# Fragestellungen / Hypothesen
+
+- H1: [Hier Hypothese 1 einfügen]  
+- H2: [Hier Hypothese 2 einfügen]  
+- (optional) H3: [Weitere Hypothese]
+
+---
+
+# Methodisches Vorgehen
+
+**Datengrundlage:**  
+- Messgerät: Polar-Pulsgurt, Datenexport via Elite HRV App  
+- Variablen: BPM, RPM/Kadenz, Intensität (low/medium/high), [weitere relevante Variablen]  
+
+**Datenaufbereitung:**  
+- Berechnung BPM aus RR-Intervallen  
+- Bereinigung (Filterung unrealistischer Werte, Interpolation fehlender Werte)  
+- Zusammenführung mit Metadaten (Alter, Geschlecht, Fitnesslevel, etc.)  
+
+**Analyseansatz:**  
+- Visualisierungen: [z. B. Scatterplot BPM vs. RPM, Boxplots nach Intensitätslevel]  
+- Deskriptive Statistik: [Mittelwert, Median, Standardabweichung, Verteilungen]  
+- Hypothesentests: [z. B. ANOVA, t-Test, Korrelationen]
+
+---
+
+# Begründung Statistik
+
+- Der Test [Name einfügen] eignet sich, weil …  
+- Wir prüfen [z. B. Unterschiede zwischen Gruppen / Zusammenhang zweier Variablen]  
+- Voraussetzungen (Normalverteilung, Varianzhomogenität) werden geprüft mit [z. B. Shapiro-Wilk-Test, Levene-Test].  
+
+---
+
+# Erwartete Ergebnisse
+
+- Wir erwarten, dass …  
+- Mögliche Einflussfaktoren: [Fitnesslevel, Übungstyp, individuelle Unterschiede]  
+

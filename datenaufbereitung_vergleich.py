@@ -58,6 +58,6 @@ for person, zhaw_id in ZHAW_KUERZEL.items():
     print(f"Processing {person.capitalize()}...")
     data = process_person(person, zhaw_id)
     plot_comparison(person, zhaw_id, data)
-    print()
+    
 
 print("✅ Datenaufbereitung abgeschlossen!")
